@@ -1,0 +1,25 @@
+/.env
+/.idea
+/vendor
+.DS_Store
+/node_modules
+/web/dist/*
+/web/assets/*
+/web/hot
+/web/mix-manifest.json
+/web/cache/*
+!/web/assets/icons
+!/web/assets/fonts
+!/web/assets/favicons
+!/web/assets/logos
+!/web/assets/graphics
+!/web/assets/cms
+*.sql
+!/seed.sql
+
+# Boilerplate specific excludes
+yarn.lock
+package-lock.json
+composer.lock
+config/craft/project/*
+config/craft/license.key

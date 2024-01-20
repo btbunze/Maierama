@@ -1,0 +1,14 @@
+# Example Carbon Nuxt README
+
+## Project Info
+
+- [Nuxt](https://craftcms.com) for content management (multisite)
+
+## Local Project Setup
+
+### Vite (Frontend)
+
+1. Install dependencies: `npm install`
+1. Run dev: `npm run dev`
+
+🪄 Tada! Your frontend should now be beatiful 😍: https://sitename.ddev.site
